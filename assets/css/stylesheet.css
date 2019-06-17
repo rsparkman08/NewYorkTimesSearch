@@ -1,0 +1,25 @@
+#outside-jumbotron {
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+
+#inside-jumbotron {
+    background-color: rgb(27, 27, 128);
+}
+
+#jumbotron-text{
+    color: white;
+}
+#outside-other {
+    padding-right: 100px;
+    padding-left: 100px
+}
+
+#outside-results {
+    padding-right: 100px;
+    padding-left: 100px
+}
+
+
+
